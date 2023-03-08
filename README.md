@@ -1,4 +1,4 @@
-<img src="http://www.hzkun.my.id/anime.gif" height='150' width='150' alt="KomporHitam profile">
+<img src="http://www.hzkun.my.id/anime.gif" height='318' width='255' alt="KomporHitam profile">
 <a href="http://www.hzkun.my.id">
 
 <img title="Hzkun001" src="https://komarev.com/ghpvc/?username=KomporHitam&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
