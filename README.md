@@ -8,7 +8,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-zard.aqua@gmail.com-black?style=flat&logo=Gmail&link=mailto:zard.aqua@gmail.com)](mailto:zard.aqua@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Hzkun001-black?style=flat&logo=github&link=https://github.com/)](https://www.github.com/Hzkun001)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://instagram.com/)](https://www.instagram.com/hzguring) 
+[![Instagram Badge](https://img.shields.io/badge/-hzguring-black?style=flat&logo=instagram&link=https://instagram.com/)](https://www.instagram.com/hzguring) 
 [![Twitter Badge](https://img.shields.io/badge/-Hz-black?style=flat&logo=twitter&link=https://twitter.com/)](https://twitter.com/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-black?style=flat&logo=facebook&link=https://facebook.com/)](https://facebook.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram&link=https://telegram.me/)](https://telegram.me/)
