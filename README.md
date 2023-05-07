@@ -10,7 +10,7 @@
 [![Github Badge](https://img.shields.io/badge/-Hzkun001-black?style=flat&logo=github&link=https://github.com/)](https://www.github.com/Hzkun001)
 [![Instagram Badge](https://img.shields.io/badge/-hzguring-black?style=flat&logo=instagram&link=https://instagram.com/)](https://www.instagram.com/hzguring) 
 [![Twitter Badge](https://img.shields.io/badge/-Hz-black?style=flat&logo=twitter&link=https://twitter.com/)](https://twitter.com/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-black?style=flat&logo=facebook&link=https://facebook.com/)](https://facebook.com/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-black?style=flat&logo=facebook&link=https://www.facebook.com/hzkun.hzkun?mibextid=ZbWKwL)](https://www.facebook.com/hzkun.hzkun?mibextid=ZbWKwL)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram&link=https://telegram.me/)](https://telegram.me/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-black?style=flat&logo=whatsapp&link=https://wa.me/)](https://wa.me/)
 [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-black?style=flat&logo=hackthebox&link=https://app.hackthebox.com/profile/)](https://app.hackthebox.com/profile/)
