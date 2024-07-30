@@ -1,6 +1,6 @@
-<img src="https://hzkun001.github.io/ghost.gif" height='420' width='380' alt="KomporHitam profile">
+<img src="https://hzkun001.github.io/ghost.gif" height='350' width='320' alt="KomporHitam profile">
 <a href="https://hzkun001.github.io">
-
+<p>i can cook</p>
 <img title="Hzkun001" src="https://komarev.com/ghpvc/?username=Hzkun&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 
 
@@ -29,7 +29,7 @@
 [![Arch_Linux Badge](https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=arch-linux&link=https://archlinux.org)](https://archlinux.org)
 [![Cent%20OS Badge](https://img.shields.io/badge/CentOS-black?style=flat&logo=CentOS&link=https://www.centos.org)](https://www.centos.org)
 [![freebsd Badge](https://img.shields.io/badge/FreeBSD-black?style=flat&logo=FreeBSD&link=https://www.freebsd.org)](https://www.freebsd.org)
-[![trophy](https://github-profile-trophy.vercel.app/?username=beruangsalju&theme=onedark)](https://github.com/Hzkun001/Hzkun001)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hzkun001&theme=onedark)](https://github.com/Hzkun001/Hzkun001)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Hzkun001&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&custom_title=My+Github+Stats)](https://github.com/Hzkun001/Hzkun001)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hzkun001&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF)](https://github.com/Hzkun001/Hzkun001)
 [![Streak Stats Langs](https://github-readme-streak-stats.herokuapp.com?user=Hzkun001&theme=dark&background=black&ring=lime&fire=purple&dates=white&currStreakNum=lime&sideNums=lime&currStreakLabel=lime&sideLabels=lime&stroke=lime&border=black)](https://github.com/Hzkun001/Hzkun001)
