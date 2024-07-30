@@ -1,7 +1,7 @@
 <img src="https://www.hzkun.tech/anime.gif" height='255' width='318' alt="KomporHitam profile">
 <a href="https://www.hzkun.tech">
 
-<img title="Hzkun001" src="https://komarev.com/ghpvc/?username=KomporHitam&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
+<img title="Hzkun001" src="https://komarev.com/ghpvc/?username=Hzkun001&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 
 
 
