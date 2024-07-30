@@ -1,4 +1,4 @@
-<img src="https://hzkun001.github.io/ghost.gif" height='220' width='343' alt="KomporHitam profile">
+<img src="https://hzkun001.github.io/ghost.gif" height='420' width='343' alt="KomporHitam profile">
 <a href="https://hzkun001.github.io">
 
 <img title="Hzkun001" src="https://komarev.com/ghpvc/?username=Hzkun&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
