@@ -1,7 +1,7 @@
 <img title="Hzkun001" src="https://komarev.com/ghpvc/?username=Hzkun&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 # 💫 About Me:
 
-<br<b>Hi I'm Hzkun!</b><br>
+<br><b>Hi I'm Hzkun!</b><br>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/tFXgZr2w4JkAAAAj/marija-musedash.gif">
 Passionate programmer working in the fields of **web development** and **software engineering**. I have a strong interest in **cyber security**, and I'm particularly drawn to reverse engineering and exploring new challenges in tech. I'm also diving deep into the world of **Artificial Intelligence (AI)**, constantly learning and evolving in this fast-paced field.
 
