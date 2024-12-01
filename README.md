@@ -1,5 +1,4 @@
 <img title="Hzkun001" src="https://komarev.com/ghpvc/?username=Hzkun&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 # 💫 About Me:
 
 <br>Hi there! 👋<br><br>I'm a passionate programmer working in the fields of **web development** and **software engineering**. I have a strong interest in **cyber security**, and I'm particularly drawn to reverse engineering and exploring new challenges in tech. I'm also diving deep into the world of **Artificial Intelligence (AI)**, constantly learning and evolving in this fast-paced field.
