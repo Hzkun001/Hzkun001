@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://Hzkun001)
 <img title="Hzkun001" src="https://komarev.com/ghpvc/?username=Hzkun&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 # 💫 About Me:
 
