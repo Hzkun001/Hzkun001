@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/tFXgZr2w4JkAAAAj/marija-musedash.gif">
 Passionate programmer working in the fields of **web development** and **software engineering**. I have a strong interest in **cyber security**, and I'm particularly drawn to reverse engineering and exploring new challenges in tech. I'm also diving deep into the world of **Artificial Intelligence (AI)**, constantly learning and evolving in this fast-paced field.
 
-<br><br>A Little More About Me :<br><br>🖥️ Tech Stack : Web Development, Software Engineering, Cyber Security<br><br>🔍 Interests : Reverse Engineering, AI, Cyber Security<br><br>☕ Hobbies : Exploring new technologies, enjoying a cup of coffee, and watching anime during my free time.<br><br>🎓 Studied : Information Technology<br><br><br>I enjoy discovering new things, solving complex problems, and continuously learning. My journey in tech is just beginning, and I’m always looking to collaborate and share knowledge.<br><br>Feel free to connect with me!
+<br>A Little More About Me :<br><br>🖥️ Tech Stack : Web Development, Software Engineering, Cyber Security<br><br>🔍 Interests : Reverse Engineering, AI, Cyber Security<br><br>☕ Hobbies : Exploring new technologies, enjoying a cup of coffee, and watching anime during my free time.<br><br>🎓 Studied : Information Technology<br><br><br>I enjoy discovering new things, solving complex problems, and continuously learning. My journey in tech is just beginning, and I’m always looking to collaborate and share knowledge.<br><br>Feel free to connect with me!
 
 
 ## 🌐 Socials:
