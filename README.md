@@ -15,18 +15,13 @@ Passionate programmer working in the fields of **web development** and **softwar
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Gmail Badge](https://img.shields.io/badge/-zard.aqua@gmail.com-black?style=flat&logo=Gmail&link=mailto:zard.aqua@gmail.com)](mailto:zard.aqua@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Hzkun001-black?style=flat&logo=github&link=https://github.com/)](https://www.github.com/Hzkun001)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://instagram.com/)](https://www.instagram.com/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter&link=https://twitter.com/)](https://twitter.com/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-black?style=flat&logo=facebook&link=https://www.facebook.com/hzkun.hzkun?mibextid=ZbWKwL)](https://www.facebook.com/hzkun.hzkun?mibextid=ZbWKwL)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram&link=https://telegram.me/)](https://telegram.me/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-black?style=flat&logo=whatsapp&link=https://wa.me/)](https://wa.me/)
 [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-black?style=flat&logo=hackthebox&link=https://app.hackthebox.com/profile/)](https://app.hackthebox.com/profile/)
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black?style=flat&logo=tryhackme&link=https://tryhackme.com/p/)](https://tryhackme.com/p/)
 [![HackerOne Badge](https://img.shields.io/badge/-HackerOne-black?style=flat&logo=hackerone&link=https://hackerone.com/)](https://hackerone.com/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black/?style=flat&logo=medium&link=https://medium.com/@)](https://medium.com/@)
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-black/?style=flat&logo=reddit&link=https://reddit.com/u/Hzkun)](https://reddit.com/u/Hzkun)
 [![Android Badge](https://img.shields.io/badge/-Android-black?style=flat&logo=android&link=https://android.com)](https://android.com)
 [![Windows Badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&link=https://www.microsoft.com)](https://www.microsoft.com)
 [![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&link=https://www.linux.org)](https://www.linux.org)
