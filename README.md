@@ -1,10 +1,16 @@
-<img src="https://hzkun001.github.io/ghost.gif" height='330' width='320' alt="KomporHitam profile">
-<a href="https://github.com/Hzkun001/Kumpulan-Webshell-PHP">
-<p>i can cook</p>
 <img title="Hzkun001" src="https://komarev.com/ghpvc/?username=Hzkun&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 
+# 💫 About Me:
+<br><br>Hi there! 👋<br><br>I'm a passionate programmer working in the fields of **web development** and **software engineering**. I have a strong interest in **cyber security**, and I'm particularly drawn to reverse engineering and exploring new challenges in tech. I'm also diving deep into the world of **Artificial Intelligence (AI)**, constantly learning and evolving in this fast-paced field.<br><br>A Little More About Me :<br><br>🖥️ Tech Stack : Web Development, Software Engineering, Cyber Security<br><br>🔍 Interests : Reverse Engineering, AI, Cyber Security<br><br>☕ Hobbies : Exploring new technologies, enjoying a cup of coffee, and watching anime during my free time.<br><br>🎓 Studied : Information Technology<br><br><br>I enjoy discovering new things, solving complex problems, and continuously learning. My journey in tech is just beginning, and I’m always looking to collaborate and share knowledge.<br><br>Feel free to connect with me!
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hzkun001) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@asa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/asa) 
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white)
+
+# 📊 GitHub Stats:
 [![Gmail Badge](https://img.shields.io/badge/-zard.aqua@gmail.com-black?style=flat&logo=Gmail&link=mailto:zard.aqua@gmail.com)](mailto:zard.aqua@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Hzkun001-black?style=flat&logo=github&link=https://github.com/)](https://www.github.com/Hzkun001)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://instagram.com/)](https://www.instagram.com/) 
@@ -32,6 +38,10 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Hzkun001&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&custom_title=My+Github+Stats)](https://github.com/Hzkun001/Hzkun001)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hzkun001&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF)](https://github.com/Hzkun001/Hzkun001)
 [![Streak Stats Langs](https://github-readme-streak-stats.herokuapp.com?user=Hzkun001&theme=dark&background=black&ring=lime&fire=purple&dates=white&currStreakNum=lime&sideNums=lime&currStreakLabel=lime&sideLabels=lime&stroke=lime&border=black)](https://github.com/Hzkun001/Hzkun001)
+
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Hzkun001) 
+
 
 
 
