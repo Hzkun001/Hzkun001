@@ -13,11 +13,13 @@ I’m a passionate programmer working in web development and software engineerin
 - ☕ **Hobbies**: Exploring tech, coffee, anime  
 - 🎓 **Studied**: Information Technology  
 
-I enjoy solving problems, discovering new ideas, and collaborating with others. Let’s connect!  
-<img align="center" alt="number1" width="20" src="https://rule34.xxx/counter/1.gif">
-<img align="center" alt="number2" width="20" src="https://rule34.xxx/counter/3.gif">
-<img align="center" alt="number3" width="20" src="https://rule34.xxx/counter/3.gif">
-<img align="center" alt="number4" width="20" src="https://rule34.xxx/counter/7.gif">
+I enjoy solving problems, discovering new ideas, and collaborating with others. Let’s connect!
+<div align="center">
+  <img alt="number1" width="20" src="https://rule34.xxx/counter/1.gif">
+  <img alt="number2" width="20" src="https://rule34.xxx/counter/3.gif">
+  <img alt="number3" width="20" src="https://rule34.xxx/counter/3.gif">
+  <img  alt="number4" width="20" src="https://rule34.xxx/counter/7.gif">
+</div>
 <br>
 
 ## 🌐 Socials:
