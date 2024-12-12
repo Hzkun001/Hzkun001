@@ -14,10 +14,10 @@ I’m a passionate programmer working in web development and software engineerin
 - 🎓 **Studied**: Information Technology  
 
 I enjoy solving problems, discovering new ideas, and collaborating with others. Let’s connect!  
-<img align="center" alt="number1" width="100" src="https://rule34.xxx/counter/1.gif">
-<img align="center" alt="number2" width="100" src="https://rule34.xxx/counter/3.gif">
-<img align="center" alt="number3" width="100" src="https://rule34.xxx/counter/3.gif">
-<img align="center" alt="number4" width="100" src="https://rule34.xxx/counter/7.gif">
+<img align="center" alt="number1" width="20" src="https://rule34.xxx/counter/1.gif">
+<img align="center" alt="number2" width="20" src="https://rule34.xxx/counter/3.gif">
+<img align="center" alt="number3" width="20" src="https://rule34.xxx/counter/3.gif">
+<img align="center" alt="number4" width="20" src="https://rule34.xxx/counter/7.gif">
 <br>
 
 ## 🌐 Socials:
