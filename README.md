@@ -34,7 +34,6 @@ I enjoy solving problems, discovering new ideas, and collaborating with others. 
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hzkun001&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" width="300">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hzkun001&theme=dark&background=black&ring=lime&fire=purple&dates=white&currStreakNum=lime&sideNums=lime&currStreakLabel=lime&sideLabels=lime&stroke=lime&border=black" alt="Streak Stats" width="300">
 </div>
 
 ## 💰 Support Me:
