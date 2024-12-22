@@ -21,7 +21,7 @@ I enjoy solving problems, discovering new ideas, and collaborating with others. 
   <img  alt="number4" width="20" src="https://rule34.xxx/counter/7.gif">
 </div>
 <br>
-
+[![ascii.live demo](https://ascii.live/knot)](https://ascii.live)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/akazaanym) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Labhz) 
