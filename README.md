@@ -39,9 +39,9 @@ I enjoy solving problems, discovering new ideas, and collaborating with others. 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hzkun001/mnabilfs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hzkun001/mnabilfs/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Hzkun001/mnabilfs/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hzkun001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hzkun001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hzkun001/output/github-snake.svg" />
 </picture>
 
 ## 💰 Support Me:
