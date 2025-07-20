@@ -37,11 +37,5 @@ I enjoy solving problems, discovering new ideas, and collaborating with others. 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hzkun001&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" width="300">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hzkun001/Hzkun001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hzkun001/Hzkun001/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Hzkun001/Hzkun001/output/github-snake.svg" />
-</picture>
-
 ## 💰 Support Me:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H716U4AR)
