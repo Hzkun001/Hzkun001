@@ -27,7 +27,7 @@ I enjoy solving problems, discovering new ideas, and collaborating with others. 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Hzkun/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ## 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=blue) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%230175C2?style=flat-square&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/php-%230175C2.svg?style=flat-square&logo=php&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%230175C2.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
